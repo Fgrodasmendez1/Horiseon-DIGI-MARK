@@ -4,7 +4,7 @@ This is a quiz application using HTML and CSS. This application focuses on seman
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
 * [GitHub Repository](https://github.com/Fgrodasmendez1/Challenge-1/settings/pages)
-* [Deployed GitHub IO](https://fgrodasmendez1.github.io/Challenge-4/)
+* [Deployed GitHub IO](https://fgrodasmendez1.github.io/Challenge-1/)
 * [Full Demo Video](https://drive.google.com/file/d/1NE5iRfU3dMwpYCBGjd_9cdutiWeNcE--/view)
 
 ![Horiseon (3)](https://user-images.githubusercontent.com/104540728/187055186-1fa9c33e-f788-48aa-aa23-233ea7bd3ffa.gif))
