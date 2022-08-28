@@ -7,7 +7,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 * [Deployed GitHub IO](https://fgrodasmendez1.github.io/Challenge-4/)
 * [Full Demo Video](https://drive.google.com/file/d/1NE5iRfU3dMwpYCBGjd_9cdutiWeNcE--/view)
 
-![Code-Quiz Demo](https://github.com/Fgrodasmendez1/Challenge-1/ChallengeFolder/Week1/Asset/Horiseon.gif)
+![Code-Quiz Demo](Horiseon.gif)
 
 ### Prerequisites
 
