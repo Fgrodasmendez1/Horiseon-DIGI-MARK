@@ -7,7 +7,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 * [Deployed GitHub IO](https://fgrodasmendez1.github.io/Challenge-4/)
 * [Full Demo Video](https://drive.google.com/file/d/1NE5iRfU3dMwpYCBGjd_9cdutiWeNcE--/view)
 
-![Horiseon Demo]("C:\Users\ferna\OneDrive\Desktop\Coding Bootcamp\Challenge Folder\Week 1\Challenge-1\assets\Horiseon.gif")
+![Horiseon Demo](![Uploading Horiseon.gif…]())
 
 ### Prerequisites
 
