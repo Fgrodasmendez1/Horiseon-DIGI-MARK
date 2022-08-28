@@ -1,15 +1,112 @@
-# Challenge-1
+# Code-Quiz
 
-## Overview
-The purpose of this challenge was to refactor some code of an exisitng website of a marketing agency to make it more accessible. Web accessibility can cover a wide spectrum. In this particular situation, the goal was to make the website more optimized for search engines. To do this, I was tasked to ensure the HTML elements were semantic and followed a logical structure that was independent of styling and positioning. Accessible alt attributes were added to the image elements (meaning a quick caption was added when hovering over the image to give the user a worded description of the image). All headings were re-organized in a sequential order. And lastly, the title was made concise and descriptive. CSS selectors were also consolidated and a description of each line of CSS code was added for clarity of what each code is intended to alter visually. The link to the newly revamped website is [here](https://fgrodasmendez1.github.io/Challenge-1/).
+This is a quiz application using HTML and CSS. This application focuses on semantic HTML elements. 
+This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-## Specific Changes Made
+* [GitHub Repository](https://github.com/Fgrodasmendez1/Challenge-4)
+* [Deployed GitHub IO](https://fgrodasmendez1.github.io/Challenge-4/)
+* [Full Demo Video](https://drive.google.com/file/d/1NE5iRfU3dMwpYCBGjd_9cdutiWeNcE--/view)
 
-![expecting_retirement_code](Resources/expecting_retirement_code.png)
-![total_employees](Resources/total-employees.png)
+![Code-Quiz Demo](https://github.com/Fgrodasmendez1/Challenge-1/ChallengeFolder/Week1/Asset/Horiseon.gif)
 
-![title_retiring](Resources/title_retiring.png)
+### Prerequisites
 
-![mentorship](Resources/mentorship.png)
+To install this application, you will need a text editor. I recommend Visual Studio Code. 
 
-## Summary
+### Installing
+
+To install this code, download the zip file, or use GitHub's guidelines to clone the repository. 
+
+
+### Summary
+* HTML and CSS documents and edit the starter code. 
+* This project emphasizes the use of HTML to edit the sementic elements. 
+* This project utilizes agile project management as a practice excercise for future work flow.
+
+### This project has the following features: 
+* The project provides starter code that must be edited. 
+* The web page as functioning links.
+* Each link directs the user to specific information based on the descr. 
+
+![Screenshot-1](Asset/Screenshot-1.png)
+
+* An appended HTML page that features questions, and multiple choice answers.
+    * If questions are answered incorrectly, 10 seconds are deducted off remaining time.
+    * Answers are recording using an event listener, "click" and tracks correct answers.
+
+![Screenshot-2](Asset/Screenshot-2.png)
+![Screenshot-3](Asset/Screenshot-3.png)
+
+* An appended HTML page that features: 
+    * Final score which is calculated using time remaining.
+    * A Summary of how many questions answered correctly. 
+    * Input area to record initials.
+    * A Submit button.
+    * Submit buttom saves initials and score to local storage.
+
+![Screenshot-4](Asset/Screenshot-4.png)
+
+* A Highscores HTML
+    * This a list summary of intials and final scores.
+    * Clear button resets the page and local storage.
+    * "Home" button travels to the start of the quiz.
+
+![Screenshot-5](Asset/Screenshot-5.png)
+
+### Psuedo code:  
+* Create a timer attached to a button with a starting value of 0.
+* When timer is pressed start a reverse countdown.
+* Create a 0 for countdown.
+* When the countdown starts then the quiz start.
+* Start Quiz will be on appended page.
+* Append the question: choices.
+* When user selects the right answer, textcontent "Correct!"
+* When user selects the right answer, textcontent "Wrong!"
+* Final score will keep track of how many the user got right. 
+* Final Score Appended page. 
+* Captures local storage.
+* Travels to another HTML.
+* Retrieved highscores.
+
+### This project has script features of:
+* Questions contained in an array variable with objects.
+* Variable declaration area. 
+* An event listener (onclick) that generates time interval.
+* A function to render the questions and choices on the page using a for loop.
+* An event listener on all list choices. 
+* A comparison statement to compare correct answers to choices.
+* An appended page showing the final stats of the individual user with input area for initials, captures local storage.
+* Highscores retreived local storage.
+
+### This project has media Queries for:
+* max-width: 980px 
+    * Adjusts body and container width
+* max-width: 786px
+    * Adjusts body and container width
+    * Adjusts buttons
+* max-width: 640px
+    * Adjusts body and container width
+    * Adjusts buttons to be centered and stacked
+
+### To Execute File:
+> Open in browser
+
+### Features: 
+* Two HTML Pages
+    * Index.html 
+        * Contains landing page to start timer
+        * Appends two new pages 
+* Highscores 
+        * Retreives local data from previous page
+* One CSS Page
+    * Styles.css
+        * Contains centering and styling for HTML list features
+        * Contains media queries
+* Two Javascript Page
+        * Contains: 
+        * Variables, including arrays with object
+        * Event listeners
+        * if/else if statements
+        * For Loops
+        * Functions 
+        * Local Storage set and get 
