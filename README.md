@@ -1,25 +1,26 @@
-# Code-Quiz
+# Code Refactor
 
 This is a quiz application using HTML and CSS. This application focuses on semantic HTML elements. 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
 * [GitHub Repository](https://github.com/Fgrodasmendez1/Challenge-1/settings/pages)
 * [Deployed GitHub IO](https://fgrodasmendez1.github.io/Challenge-1/)
-* [Full Demo Video](https://drive.google.com/file/d/1NE5iRfU3dMwpYCBGjd_9cdutiWeNcE--/view)
+* [Full Demo Video](https://drive.google.com/file/d/1M5IsgZnkf8OmuysuIKjv8t0DuTRGhUIA/view)
 
-![Horiseon Social Solution Services (1)](https://user-images.githubusercontent.com/104540728/187095520-fd93596b-0086-4cfa-8dd1-bfd93c6ec3e8.gif)
+![Horiseon Social Solution Services (1)](https://user-images.githubusercontent.com/104540728/188508120-346ffaee-f3f1-4488-b251-505797065bc2.gif)
+
 
 ### Prerequisites
 
-To install this application, you will need a text editor. I recommend Visual Studio Code. 
+* To install this application, you will need a text editor. I recommend Visual Studio Code. 
 
 ### Installing
 
-To install this code, download the zip file, or use GitHub's guidelines to clone the repository. 
+* To install this code use GitHub's guidelines to clone the repository. 
 
 
 ### Summary
-* HTML and CSS documents and edit the starter code. 
+* HTML and CSS documents that are edited from the starter code. 
 * This project emphasizes the use of HTML to edit the sementic elements. 
 * This project utilizes agile project management as a practice excercise for future work flow.
 
@@ -28,28 +29,13 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 * The web page as functioning links.
 * Each link directs the user to specific information based on the description. 
 
-### This project has script features of:
-* Questions contained in an array variable with objects.
-* Variable declaration area. 
-* An event listener (onclick) that generates time interval.
-* A function to render the questions and choices on the page using a for loop.
-* An event listener on all list choices. 
-* A comparison statement to compare correct answers to choices.
-* An appended page showing the final stats of the individual user with input area for initials, captures local storage.
-* Highscores retreived local storage.
-
 ### To Execute File:
-> Open in browser
+* Open in browser
 
 ### Features: 
-* Two HTML Pages
+* One HTML Page
     * Index.html 
-        * Contains landing page to start timer
-        * Appends two new pages 
-* Highscores 
-        * Retreives local data from previous page
-* One CSS Page
-    * Styles.css
-        * Contains centering and styling for HTML list features
-        * Contains media queries
+* One CSS Page   
+    * Style.CSS
+  
 
